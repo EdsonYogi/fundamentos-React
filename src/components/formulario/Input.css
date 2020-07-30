@@ -1,0 +1,13 @@
+.input h1 {
+  font-size: 2em;
+}
+
+.input .content {
+  display: flex;
+  flex-direction: column;
+}
+
+.input .content input {
+  width: 300px;
+  margin-bottom: 10px;
+}
